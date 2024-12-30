@@ -1,0 +1,21 @@
+{
+  "name": "todolist-app-back",
+  "version": "1.0.0",
+  "description": "Backend de la app ToDo List",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Camilo Tatis",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
