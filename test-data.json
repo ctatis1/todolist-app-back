@@ -2,16 +2,16 @@
     {
         "id": "bbd25c3a-1952-4eab-9536-3f9e1ac6ef98",
         "title": "Hacer aseo en la casa",
-        "Description": "limpiar"
+        "description": "limpiar"
     },
     {
         "id": "37803d25-37d7-43a0-b70d-16a526fb618c",
         "title": "Pagar servicios",
-        "Description": "La luz está por vencerse"
+        "description": "La luz está por vencerse"
     },
     {
         "id": "58c96e33-1583-445d-8e52-310a2c90f6f0",
         "title": "Hacer mercado",
-        "Description": "comprar verduras y polas"
+        "description": "comprar verduras y polas"
     }
 ]
